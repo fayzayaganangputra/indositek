@@ -1,7 +1,7 @@
 {
-  "name": "architecture-design",
+  "name": "indositek",
   "version": "1.0.0",
-  "homepage": "https://fayzayaganangputra.github.io/architecture-design",
+  "homepage": "https://fayzayaganangputra.github.io/indositek",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
