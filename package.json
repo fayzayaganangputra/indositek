@@ -2,13 +2,12 @@
   "name": "indositek",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://fayzayaganangputra.github.io/indositek",
+  "homepage": "https://fayzayaganangputra.github.io/indositek/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",

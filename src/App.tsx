@@ -556,7 +556,7 @@ function App() {
           <div className="text-center">
             <div className="text-2xl font-bold text-yellow-400 mb-4">Indositek</div>
             <p className="text-gray-400">
-              © 2024 Indositek. Semua hak cipta dilindungi undang-undang.
+              © 2025 Indositek. Semua hak cipta dilindungi undang-undang.
             </p>
           </div>
         </div>
